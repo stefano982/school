@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c6f37d6d_7570608e",
+        "filename": "src/student.cc",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1011102
+      },
+      "writtenOn": "2017-05-03T19:18:52Z",
+      "side": 1,
+      "message": "comment test 1",
+      "range": {
+        "startLine": 1,
+        "startChar": 10,
+        "endLine": 1,
+        "endChar": 18
+      },
+      "revId": "68cff1885c66788800204a74342dc00368150d47",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "35980fd3_7b9fa8e7",
+        "filename": "src/student.cc",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1011102
+      },
+      "writtenOn": "2017-05-03T19:18:52Z",
+      "side": 1,
+      "message": "comment test 2",
+      "range": {
+        "startLine": 6,
+        "startChar": 2,
+        "endLine": 6,
+        "endChar": 8
+      },
+      "revId": "68cff1885c66788800204a74342dc00368150d47",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
