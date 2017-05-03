@@ -1,7 +1,12 @@
 #include <iostream>
 
 using namespace std;
-// fdfdkj
+
+int f() {
+  return 2;
+}
+
 int main() {
+  f();
   return 0;
 }
